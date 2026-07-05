@@ -83,27 +83,6 @@ lib/
 
 ## 📱 Screenshots
 ![Login](screenshots/Project_Screenshot.png)
-### Login Screen
-
-![Login](screenshots/login.png)
-
-### Dashboard
-
-![Dashboard](screenshots/dashboard.png)
-
-### Ticket Management
-
-![Tickets](screenshots/tickets.png)
-
-### Analytics
-
-![Analytics](screenshots/analytics.png)
-
-### Team Screen
-
-![Team](screenshots/team.png)
-
----
 
 ## 🚀 Getting Started
 
